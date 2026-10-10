@@ -1,0 +1,31 @@
+Audit summary retained after cleanup on 2026-10-09
+
+# Transmutation bonus chance — 2026-10-05
+
+Changed the combined additional reward chance from 3% to 10%, preserving the 15:10:4:1 ratio between bonus outcomes.
+
+## Files modified
+
+- `source/scripts/game/loot.lua`, `recycleRewards`: `sphere_mi` changed from `15/1000` to `15/300` (5%); `sphere_pop_materials` from `10/1000` to `10/300` (3⅓%); `sphere_pop_legendary` from `4/1000` to `4/300` (1⅓%); `sphere_pop_divine` from `1/1000` to `1/300` (⅓%); `nothing` from `970/1000` to `270/300` (90%).
+- `resources/Scripts.arc`: rebuilt with the existing `tools/pack_beutekugel_scripts.ps1` and installed into the mod.
+
+## Files created
+
+- `transmutation_10pct_changelog.md`: this changelog.
+- `audit/transmutation_10pct_2026-10-05/before/loot.lua`: exact source backup.
+- `audit/transmutation_10pct_2026-10-05/before/Scripts.arc`: exact archive backup.
+- `audit/transmutation_10pct_2026-10-05/Scripts-packed.arc`: verified build candidate.
+- Under `audit/transmutation_10pct_2026-10-05/roundtrip/scripts-packed/`: extracted `main.lua`, `game/utility.lua`, `game/modscript.lua`, `game/loot.lua`, and `game/beutekugel_blueprints.lua` for verification.
+
+## Retained behavior and validation
+
+- The shared 60-second bonus cooldown, item eligibility, normal iron/component rewards, sphere contents, and existing blueprint reward code were preserved. No DBRs were modified.
+- Reversing just the rewards-table replacement reproduces the original source exactly; no unrelated source changes were made.
+- The bonus probabilities total 30/300 = 10%; including `nothing`, all probabilities total 300/300 = 100%.
+- The packer verified the ARC header, member names, lengths, and all five payloads. The game ArchiveTool then extracted the candidate, and SHA-256 hashes of all five members matched their source files.
+- Installed archive SHA-256 matches the staged candidate: `C4769A000960D64AD4894E7D76298E90522480042EF38EF9CBB6C319F0268CD4`. ArchiveTool listed all five installed members successfully.
+- Grim Dawn was not running at deployment. Scripts were rebuilt and deployed; no database compilation was needed or performed. In-game behavior has not been tested.
+
+
+Cleanup: this audit folder now retains only audit.log. The changelog above describes the original update; its references to backups, manifests, extracted records, and staged archives are historical. Those audit artifacts have been removed. Active mod source, resources, and the root changelog are untouched.
+Previous audit size: 290541 bytes across 8 files.

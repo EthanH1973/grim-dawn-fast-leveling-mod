@@ -1,0 +1,8 @@
+templateName,database/templates/lootitemtable_fixedweight.tpl,
+Class,LootItemTable_FixedWeight,
+noPrefixNoSuffix,100000,
+FileDescription,Beutekugel blueprints - fixed weights - all levels,
+lootName1,records/__mod/spheres/loot/blueprints_all_levels/pool_1_000.dbr,
+lootWeight1,900,
+lootName2,records/__mod/spheres/loot/blueprints_all_levels/pool_1_001.dbr,
+lootWeight2,48,

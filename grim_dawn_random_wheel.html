@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Grim Dawn Dual-Mastery Wheel</title>
+  <style>
+    :root { color-scheme: dark; font-family: Georgia, "Times New Roman", serif; }
+    * { box-sizing: border-box; }
+    body {
+      min-height: 100vh; margin: 0; display: grid; place-items: center; padding: 24px;
+      color: #efe4c9; background: radial-gradient(circle at 50% 20%, #29332f, #101513 58%, #080b0a);
+    }
+    main { width: min(94vw, 760px); text-align: center; }
+    h1 { margin: 0 0 6px; color: #e6b75d; letter-spacing: .08em; text-transform: uppercase; font-size: clamp(1.45rem, 5vw, 2.35rem); }
+    .subtitle { margin: 0 0 20px; color: #aaa48f; }
+    .wheel-wrap { position: relative; width: min(78vw, 520px); aspect-ratio: 1; margin: auto; filter: drop-shadow(0 14px 22px #000b); }
+    canvas { width: 100%; height: 100%; display: block; transition: transform 4.8s cubic-bezier(.12,.72,.08,1); }
+    .pointer {
+      position: absolute; z-index: 2; left: 50%; top: -8px; translate: -50% 0;
+      width: 0; height: 0; border-left: 18px solid transparent; border-right: 18px solid transparent;
+      border-top: 42px solid #f2d486; filter: drop-shadow(0 3px 2px #000b);
+    }
+    button {
+      margin-top: 24px; padding: 13px 32px; border: 1px solid #d4a94d; border-radius: 5px;
+      color: #18130a; background: linear-gradient(#f0d58c, #c99231); font: 700 1rem Georgia, serif;
+      letter-spacing: .08em; text-transform: uppercase; cursor: pointer; box-shadow: 0 5px 18px #0008;
+    }
+    button:hover { filter: brightness(1.12); }
+    button:disabled { cursor: wait; filter: grayscale(.65); }
+    .result {
+      min-height: 92px; margin: 20px auto 0; padding: 15px; border: 1px solid #6d5a31; border-radius: 7px;
+      background: #111714d9; display: grid; place-content: center; gap: 5px;
+    }
+    .result small { color: #9c9787; text-transform: uppercase; letter-spacing: .16em; }
+    .pair { color: #f1ce78; font-size: clamp(1.35rem, 5vw, 2rem); font-weight: 700; }
+    .history { margin-top: 11px; color: #777a70; font: .82rem system-ui, sans-serif; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Dual-Mastery Wheel</h1>
+    <p class="subtitle">Let fate choose two unique Grim Dawn masteries.</p>
+    <div class="wheel-wrap">
+      <div class="pointer" aria-hidden="true"></div>
+      <canvas id="wheel" width="720" height="720" aria-label="Wheel containing ten Grim Dawn masteries"></canvas>
+    </div>
+    <button id="spin">Roll Two Classes</button>
+    <div class="result" aria-live="polite">
+      <small>Your build</small>
+      <div class="pair" id="pair">—</div>
+    </div>
+    <div class="history" id="history"></div>
+  </main>
+
+  <script>
+    const masteries = [
+      "Soldier", "Demolitionist", "Occultist", "Nightblade", "Arcanist",
+      "Shaman", "Inquisitor", "Necromancer", "Oathkeeper", "Berserker"
+    ];
+    const colors = ["#75513a", "#a1472d", "#60416f", "#394e63", "#315f75", "#557143", "#9a7135", "#46594d", "#8b7839", "#713b37"];
+    const canvas = document.querySelector("#wheel");
+    const ctx = canvas.getContext("2d");
+    const spinButton = document.querySelector("#spin");
+    const pair = document.querySelector("#pair");
+    const history = document.querySelector("#history");
+    const segment = Math.PI * 2 / masteries.length;
+    let rotation = 0;
+    let rolls = 0;
+
+    function drawWheel() {
+      const c = canvas.width / 2;
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      masteries.forEach((name, i) => {
+        const start = -Math.PI / 2 - segment / 2 + i * segment;
+        ctx.beginPath(); ctx.moveTo(c, c); ctx.arc(c, c, c - 8, start, start + segment); ctx.closePath();
+        ctx.fillStyle = colors[i]; ctx.fill(); ctx.strokeStyle = "#c3a25c"; ctx.lineWidth = 3; ctx.stroke();
+        ctx.save(); ctx.translate(c, c); ctx.rotate(start + segment / 2);
+        ctx.textAlign = "right"; ctx.textBaseline = "middle"; ctx.fillStyle = "#fff4d5";
+        ctx.font = "bold 24px Georgia"; ctx.shadowColor = "#000"; ctx.shadowBlur = 4;
+        ctx.fillText(name, c - 35, 0); ctx.restore();
+      });
+      ctx.beginPath(); ctx.arc(c, c, 54, 0, Math.PI * 2); ctx.fillStyle = "#171b17"; ctx.fill();
+      ctx.strokeStyle = "#d2ad5a"; ctx.lineWidth = 7; ctx.stroke();
+      ctx.fillStyle = "#e7c269"; ctx.font = "bold 23px Georgia"; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText("GD", c, c);
+    }
+
+    function randomPair() {
+      const first = Math.floor(Math.random() * masteries.length);
+      let second = Math.floor(Math.random() * (masteries.length - 1));
+      if (second >= first) second++;
+      return [first, second];
+    }
+
+    spinButton.addEventListener("click", () => {
+      const [a, b] = randomPair();
+      const extraTurns = 6 + Math.floor(Math.random() * 3);
+      const target = -(a * 36) + extraTurns * 360;
+      rotation += target - (rotation % 360);
+      canvas.style.transform = `rotate(${rotation}deg)`;
+      spinButton.disabled = true; pair.textContent = "The wheel is turning…";
+      setTimeout(() => {
+        pair.textContent = `${masteries[a]} + ${masteries[b]}`;
+        rolls++; history.textContent = `Roll ${rolls} • No duplicate mastery can be selected`;
+        spinButton.disabled = false;
+      }, 4800);
+    });
+
+    drawWheel();
+  </script>
+</body>
+</html>

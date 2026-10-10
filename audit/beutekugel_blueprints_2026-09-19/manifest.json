@@ -1,0 +1,5060 @@
+{
+  "Date": "2026-09-19",
+  "BlueprintCount": 948,
+  "Blueprints": [
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armor_decoratedpauldrons.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armor_explorertrousers.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armor_explorertunic.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armor_guardsmanbreastplate.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorb101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorb102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc01_cowloftheblindassassin.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc02_unholyvisageofthecovenant.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc03_flamekeepersjacket.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc04_callidorsvestments.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc05_myrmidonvisor.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc06_cowlofmogdrogen.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc112.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc115.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc116.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc117.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc118.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc119.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc120.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc121.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armorc301.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord153.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord154.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord155.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord156.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord157.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord158.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord159.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord160.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord161.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord162.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord163.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord164.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord165.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord166.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord203.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord204.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord205.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord206.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord207.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord208.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord209.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord210.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord211.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord212.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord213.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord214.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord215.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord216.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord217.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord218.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord219.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord220.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord301.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord302.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord304.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord306.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord307.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord308.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord309.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord310.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord311.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord312.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord313.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord314.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord315.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord316.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord317.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord318.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_armord319.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_feet_adeptsboots.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_feet_adeptsboots02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_feet_squiresboots.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_feet_squiresboots02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_hands_adeptsgloves.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_hands_adeptsgloves02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_hands_squiresgauntlets.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_hands_squiresgauntlets02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_handsb201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_handsb202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_head_adeptshood.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_head_adeptshood02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_head_rangershelm.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_head_rangershelm02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd01_mawofdespair.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd01v2_mawofdespair.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd02_dreadmaskofgurgoth.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd02v2_dreadmaskofgurgoth.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd03_whispererofsecrets.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd03v2_whispererofsecrets.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd04_abyssalmask.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd04v2_abyssalmask.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd05_circletofthegreatserpent.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd05v2_circletofthegreatserpent.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd06_maskofinfernaltruth.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd06v2_maskofinfernaltruth.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd07_faceguardofjustice.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd07v2_faceguardofjustice.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd08_beastcallercowl.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd08v2_beastcallercowl.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd09_maskoftheharbinger.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd09v2_maskoftheharbinger.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd10_demonslayershat.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd10v2_demonslayershat.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd11_clairvoyantshat.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd115.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd116.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd117.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd118.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd119.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd11v2_clairvoyantshat.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd12_markoviansvisor.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd120.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd121.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd122.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd123.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd124.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd126.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd127.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd128.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd129.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd12v2_markoviansvisor.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd13_ulzuinsheadguard.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd13v2_ulzuinsheadguard.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd14_hoodofdreeg.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd14v2_hoodofdreeg.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd15_deathmarkedhood.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd15v2_deathmarkedhood.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd16_iskandrascirclet.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd16v2_iskandrascirclet.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd17_ultoshood.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd17v2_ultoshood.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd18_crownofwinterking.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd18v2_crownofwinterking.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd19_trozanhat.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd19v2_trozanhat.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd20_valdunhat.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd20v2_valdunhat.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd21_eldritchgaze.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd21v2_eldritchgaze.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd22_covenantofthethree.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd22v2_covenantofthethree.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd23_cowlofthevenomblade.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd23v2_cowlofthevenomblade.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd24_visageoftheblackflame.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd24v2_visageoftheblackflame.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd25_lightsdefenderhelm.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd25v2_lightsdefenderhelm.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd26_infernalknightsfaceguard.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd26v2_infernalknightsfaceguard.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd27_warbornvisor.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd27v2_warbornvisor.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd28_bloodragerscowl.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_headd28v2_bloodragerscowl.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_legsb201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_legsb202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waist_bountyhuntergirdle.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waist_flamesilksash.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waist_frostguardgirdle.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waist_shockweavesash.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waist_warmongerbelt.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waist_wraithbonesash.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistc01_blazethreadsash.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistc02_equilibriumsash.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistc03_chthonianthreadsashv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistd01_voidmancerscord.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistd02_tinkersingenuity.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistd03_reforgedchainsofoleron.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistd04_ulzuinstorment.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/armor/craft_waistd05_spellbreakerwaistguard.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c010.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c020.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c033.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c117.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c207.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_medal_c307.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c049.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c051.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c061.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c307.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c308.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_necklace_c309.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_ring_c053.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_ring_c111.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_ring_c117.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_ring_c206.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_ring_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_waist_c011.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_waist_c027.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_waist_c030.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_waist_c112.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_waist_c117.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/accessories/craft_waist_c207.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_feet_c013.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_feet_c209.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_feet_c303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_hands_c010.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_hands_c018.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_hands_c029.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_hands_c303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c040.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c116.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c122.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c210.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c211.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c215.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c304.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_head_c306.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_legs_c012.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_legs_c020.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_legs_c108.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_legs_c205.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_shoulders_c019.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_shoulders_c108.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_shoulders_c304.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_shoulders_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_shoulders_c306.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c024.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c040.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c107.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c114.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c206.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c208.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c212.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/armor/craft_torso_c306.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/craft_dagger.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/craft_focus.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/craft_hands.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/craft_head.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/craft_legs.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/craft_medal.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_axe1h_c011.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_axe1h_c022.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_axe2h_c105.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_blunt1h_c022.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_blunt1h_c303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_blunt2h_c026.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_caster_c108.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_caster_c112.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_caster_c113.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_caster_c115.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_caster_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_focus_c026.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_focus_c114.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_focus_c115.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_focus_c205.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_focus_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_focus_c306.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun1h_c015.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun1h_c029.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun1h_c205.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun1h_c303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun2h_c022.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun2h_c026.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun2h_c107.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_gun2h_c203.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_shield_c015.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_shield_c027.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_shield_c207.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_shield_c303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_spear2h_c305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_sword1h_c010.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_sword1h_c203.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/awakened/weapons/craft_sword2h_c306.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_aethersoul.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_arcanespark.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_ballisticplating.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_aethersteelbolts.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_amber.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_batteredshell.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_bristlyfur.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_chilledsteel.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_coldstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_crackedlodestone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_deathchillbolts.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_densefur.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_ectoplasm.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_enchantedflint.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_flintcorebolts.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_frozenheart.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_hellsbaneammo.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_moltenskin.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_mutagenicichor.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_radiantgem.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_reinforcedshell.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_resilientplating.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_riftstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_rigidshell.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_roilingblood.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_scavengedplating.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_searingember.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_serratedshell.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_serratedspike.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_severedclaw.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_venomtippedammo.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_viciousspikes.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_viscousvenom.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_vitriolicgallstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_voidtouchedammo.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_base_wrathstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_beronath.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_blacktallow.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_bladedplating.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_blazingruby.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_blessedsteel.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_blessedwhetstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_bloodiedcrystal.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_bloodywhestone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_diamond.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_enchantedearth.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_focusingprism.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_hauntedsteel.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_hollowedfang.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_imbuedsilver.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_leatheryhide.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_markofmogdrogen.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_oleronblood.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_purifiedsalt.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_restlessremains.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_rottenheart.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_runeboundtopaz.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_runestone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sanctifiedbone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_scalyhide.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealblades.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealblight.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealcorruption.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealdestruction.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealmight.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealnight.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealresonance.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealshadows.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealskies.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_sealvoid.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_silkswatch.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_silvercorebolts.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_spellscorchedplating.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_spinedcarapace.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_taintedheart.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_ugdenbogleather.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_vengefulwraith.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_component_wardstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_componentb_eldritchmirror.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_componentb_livingarmor.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_componentb_sacredplating.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_componentb_sealancestry.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_componentb_sealannihilation.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/component/craft_componentb_titanplating.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_avian_medal01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_avian_necklace01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_avian_ring01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_avian_ring02.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_avian_ring03.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_avian_ring04.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_bysmiel_medal01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_bysmiel_necklace01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_coven_medal01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_coven_necklace01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_dreeg_medal01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_dreeg_necklace01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_kurn_medal01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_kurn_necklace01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_malmouth_medal01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_malmouth_necklace01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_soalel_medal01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_solael_necklace01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_wendigo_medal01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_accessory_wendigo_necklace01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_blacklegion_01a.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_blacklegion_01b.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_blacklegion_01c.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_bysmiel_01a.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_bysmiel_01b.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_coven_01a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_coven_01b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_coven_02a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_coven_02b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_devilscrossing_01a.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_devilscrossing_01b.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_devilscrossing_01c.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_dreeg_01a.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_dreeg_01b.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_homestead_01a.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_homestead_01b.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_homestead_01c.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_kurn_01a.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_kurn_01b.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_kymonchosen_01a.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_kymonchosen_01b.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_kymonchosen_01c.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_malmouth_01a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_malmouth_01b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_malmouth_02a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_malmouth_02b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_orderdeathsvigil_01a.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_orderdeathsvigil_01b.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_orderdeathsvigil_01c.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_rovers_01a.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_rovers_01b.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_rovers_01c.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_soalel_01a.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_solael_01b.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_wendigo_01a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_wendigo_01b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_wendigo_02a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_waist_wendigo_02b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_avian_1haxe01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_avian_1hgun01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_avian_2hsword01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_avian_focus01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_avian_shield01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_blacklegion_1hsword01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_blacklegion_crestofblacklegionv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_bysmiel_1hgun01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_bysmiel_1hmace01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_bysmiel_dagger01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_coven_1haxe01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_coven_1hgun01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_coven_2hmace01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_coven_dagger01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_devilscrossing_1hmace01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_devilscrossing_defenderdevilscrossingv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_dreeg_1haxe01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_dreeg_2hsword01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_dreeg_2hsword02.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_dreeg_shield01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_homestead_2hmace01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_homestead_boltspitterv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_homestead_shield01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_1hmace01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_1hsword01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_2haxe01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_2hgun01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_dagger01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_dagger02.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kurn_shield01.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kymonchosen_2hmace01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kymonchosen_shield01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_kymonschosen_orwellrevolverv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_malmouth_1hsword01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_malmouth_2hgun01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_malmouth_focus01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_malmouth_shield01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_orderdeathsvigil_1hgun01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_orderdeathsvigil_reaperstouchv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_orderdeathsvigil_tome01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_rovers_crossbow01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_rovers_omenv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_rovers_tome01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_solael_1hsword01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_solael_2hgun01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_solael_focus01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_solael_scepter01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_wendigo_1hmace01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/faction/craft_weapon_wendigo_dagger01.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryb101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryb102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryb103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryb104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryb105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc112.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryc115.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd112.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd115.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd116.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd117.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd118.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd119.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd120.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121a.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121b.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121c.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121d.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121e.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121f.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121g.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121h.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121i.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd121j.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd203.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd204.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd301.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd302.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_accessoryd303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amulet_maivenlens.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amulet_vortexstone.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletc01_lapismanticora.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletc02_plaguemancersamuletv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletc03_essenceofberonathv2.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletd01_starfuryemerald.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletd02_essenceofthegrimdawn.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletd03_heraldoftheapocalypse.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_amuletd04_pestilenceofdreeg.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_attributereset.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_devotionreset.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_elixir_aether.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_elixir_ancients.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_elixir_chaos.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_elixir_hunt.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_01.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_02.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_03.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_04.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_05.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_06.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_endlessdungeon_keystone_07.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_aetherialmissive_02.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_aetherialmissive.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_aetherialmutagen_02.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_aetherialmutagen.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_aethershard.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_ancientheart.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_beronathaspect_02.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_beronathaspect.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_bloodofchthon.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_celestiallotus_02.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_celestiallotus.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_dynamite.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_eldritchessence_02.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_eldritchessence.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_frozenaster_02.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_frozenaster.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_soulgreater.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_special.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_taintedbrain.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_wendigospirit_02.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_material_wendigospirit.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_medal_base_rangermedal01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_medal_base_rangermedal02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_medalc01_markoffierceresolve.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_medalc02_tempestsigil.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_medald01_badgeofmastery.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_medald02_markofdivinity.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_oil_bleed.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_oil_elemental.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_oil_lifesteal.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_oil_poison.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_aetherresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_chaosresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_coldresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_fireresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_freezeresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_lightningresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_poisonresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_royaljellybalm.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_royaljellyessence.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_royaljellyextract.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_royaljellyointment.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_royaljellysalve.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potion_vitalityresist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potionb101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potionb102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potionb103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potionb104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_potionb105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_ringc01_rubyofelementalbalance.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_ringc02_sapphireofelementalbalance.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/other/craft_special_skeletonkey.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_a301.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_a302.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_a303.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_a304.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_b301.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_b302.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_b303.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_b304.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_c301.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_c302.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_c303.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_container_c304.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a301.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a302.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a303.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a304.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a305.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a306.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a307.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a308.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a309.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a310.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a311.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a312.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a313.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a314.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a315.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a316.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a317.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a318.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a319.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/potions/potions_modifier_a320.dbr",
+      "Pack": "gdx3",
+      "Class": "OneShot_SkillUnlock"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomaxe.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomaxe2h.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomblunt.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomblunt2h.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon04.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon05.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon06.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcasterweapon07.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcraftingmaterial.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomcrossbow2h.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomfeet_heavy.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomfeet_light.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomfocus.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomgun1h.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomgun2h.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomhands_heavy.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomhands_light.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomhead_caster.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomhead_heavy.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomhead_light.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary2accessory.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary2armor.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary2caster.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary2melee.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary2ranged.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary3accessory.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary3armor.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary3caster.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary3melee.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary3ranged.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary4accessory.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary4armor.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary4caster.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary4melee.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendary4ranged.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendaryaccessory.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendaryarmor.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendarycaster.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendarymelee.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegendaryranged.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegs_heavy.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomlegs_light.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randommedal.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomnecklace.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomring.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomshield.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomshoulder_heavy.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomshoulder_light.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomsword.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomsword2h.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomtorso_caster.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomtorso_heavy.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomtorso_light.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/random/craft_randomwaist.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b001.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b002.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b003.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b004.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b005.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b006.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b007.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b008.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b009.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b010.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b011.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b012.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b013.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_b105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c001.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c002.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c003.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c004.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c005.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c006.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c007.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c008.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c009.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c010.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c011.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c012.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c013.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c014.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c015.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c016.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c017.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_c301.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d001.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d002.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d003.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d004.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d005.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d006.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d007.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d008.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d009.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d010.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d011.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d012.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d013.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d014.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d015.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d016.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d017.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d018.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d019.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d020.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d021.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d022.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d023.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d112.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d203.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d204.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d205.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d206.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d301.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d302.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d304.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/relic/craft_relic_d305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c203.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c204.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c205.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c206.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c207.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c208.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c209.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c210.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c211.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c212.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c213.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c214.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c215.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c216.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c217.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c218.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c219.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c220.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c221.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c222.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c223.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c224.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c225.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c226.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_c227.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d203.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d204.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d205.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d206.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d207.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d208.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d209.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d210.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d211.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d212.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d213.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d214.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d215.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d216.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d217.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d218.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d219.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d220.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/runes/craft_rune_d221.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_1hgun01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_1hgun02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_1hgun03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_1hmace01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_1hmace02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_1hmace03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_implement01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_implement02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_implement03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_tome01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_tome02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_apprentice_tome03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_caster_dagger01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_caster_dagger02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_caster_dagger03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_caster_scepter01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_caster_scepter02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_caster_scepter03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_firestormscepter.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_guardsmandefender.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_1hsword01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_1hsword02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_1hsword03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_2haxe01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_2haxe02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_2haxe03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_2hgun01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_2hgun02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_2hgun03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_shield01.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_shield02.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_master_shield03.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_omen.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_spellfire wand.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_stormsedge.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_theeye.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_tremor.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapon_witchstalker.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponb109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc08_uldajax.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc09_spellfirewandv2.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc10_skyshardspellbladev2.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc11_malformedeffigyv2.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc112.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weaponc12_blackgrimoireofognapeshv2.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond01_arcanumsigillis.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond02_rakajax.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond03_damnation.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond04_heraldofblazingends.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond05_beronathreforged.dbr",
+      "Pack": "base",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond06_leviathan.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond07_olexraschill.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond08_basiliskclaw.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond09_siegebreaker.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond10_eyeofdominion.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond101.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond102.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond103.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond104.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond105.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond106.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond107.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond108.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond109.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond11_codexofeternalsorrows.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond112.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond113.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond114.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond115.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond116.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond117.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond201.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond202.dbr",
+      "Pack": "gdx2",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond301.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond302.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond303.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond304.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapond305.dbr",
+      "Pack": "gdx3",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapondagallond110.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/weapon/craft_weapondagallond111.dbr",
+      "Pack": "gdx1",
+      "Class": "ItemArtifactFormula"
+    }
+  ],
+  "Excluded": [
+    {
+      "Record": "records/items/crafting/blueprints/ascension/craft_ascended_common.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/ascension/craft_ascended_epic.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/ascension/craft_ascended_legendary.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/ascension/craft_ascended_rare.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_loottabletest.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_armor_default.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_armor.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_artifact_default.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_artifact_default2.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_misc_default.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_misc.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_potion.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_randomitem.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_weapon1.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/blueprint_test_weapon2.dbr",
+      "Reason": "Developer test blueprint"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_affixreroll.dbr",
+      "Reason": "Internal crafting operation: ItemRerollFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_ascendantreroll.dbr",
+      "Reason": "Internal crafting operation: ItemRerollFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_reroll_ascended_common.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_reroll_ascended_epic.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_reroll_ascended_legendary.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_reroll_ascended_rare.dbr",
+      "Reason": "Internal crafting operation: ItemAscensionFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/reroll/craft_seedreroll.dbr",
+      "Reason": "Internal crafting operation: ItemRerollFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/sets/craft_randomsetepic.dbr",
+      "Reason": "Internal crafting operation: ItemRandomSetFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/sets/craft_randomsetlegend.dbr",
+      "Reason": "Internal crafting operation: ItemRandomSetFormula"
+    },
+    {
+      "Record": "records/items/crafting/blueprints/sets/craft_sameset.dbr",
+      "Reason": "Internal crafting operation: ItemSetFormula"
+    }
+  ],
+  "SourceHashes": [
+    {
+      "Pack": "base",
+      "Path": "D:\\GAMES\\Steam\\steamapps\\common\\Grim Dawn\\database\\database.arz",
+      "SHA256": "68761CAED0F5C6B1FC14E7EB990D41C9B67E681830E4E2E29A8CF0A8266459A6"
+    },
+    {
+      "Pack": "gdx1",
+      "Path": "D:\\GAMES\\Steam\\steamapps\\common\\Grim Dawn\\gdx1\\database\\gdx1.arz",
+      "SHA256": "A3D0917DBFF0337AF144AC8B89ED980A8956E72B1C81C434C7AD00098AD2D4F8"
+    },
+    {
+      "Pack": "gdx2",
+      "Path": "D:\\GAMES\\Steam\\steamapps\\common\\Grim Dawn\\gdx2\\database\\gdx2.arz",
+      "SHA256": "E40DF57744BF751C1876A9BAA785D3E759CD7BBEC4529B44598B458343545A81"
+    },
+    {
+      "Pack": "gdx3",
+      "Path": "D:\\GAMES\\Steam\\steamapps\\common\\Grim Dawn\\gdx3\\database\\gdx3.arz",
+      "SHA256": "A5AE5024515272F2BA7158C13EBB9CD9920E5206E7F9A31535CA258FFD5BA9B2"
+    }
+  ],
+  "OutputHashes": [
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_000.dbr",
+      "SHA256": "57225E938E9EFD885C4D55BFE540D6B5B381E4D51893D1965EF8CA1C7A147A47"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_001.dbr",
+      "SHA256": "5E4F4ABEA11477EBB78B267AB9ACCEBC1FCD0212517A7890947F65B0153ECF38"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_002.dbr",
+      "SHA256": "22BAE6F3C314A609DB1AB0C698A069A772C42C1D343402BBF9671027A6F07D7F"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_003.dbr",
+      "SHA256": "6EF6305556FF886CD141C15D690A84638BFEB12FB4FC288B60FE1481DF5660D9"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_004.dbr",
+      "SHA256": "395B7BC207BF0E7E4EBAB6438E16F93578893F000919A3A9C4F01C09159CE7E3"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_005.dbr",
+      "SHA256": "FEE4972640A91C54D285819975FA38199043F675100096DB517813B692CB060E"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_006.dbr",
+      "SHA256": "C2F313F7E6D38BB5E2CD9096991E7BA3793B621654F7966CAFC589038B30F642"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_007.dbr",
+      "SHA256": "C7BD092750D084859AB109CE23942A0DCE40945A5B72F98AB028F733190A60AC"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_008.dbr",
+      "SHA256": "2B0B50788812912B41F056F033BE46E8CCFB6B7A632121DCC8C99515DA3CD3A9"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_009.dbr",
+      "SHA256": "78E209BB409616F1A40C7536CD677F69F6AFACEF000F554BA47197D740222012"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_010.dbr",
+      "SHA256": "7BCA02C4AFC693BBA5658FA7F17E8AC757F3D49C702B4728597F4BFC078FAF38"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_011.dbr",
+      "SHA256": "5665598FAEC47AFA5F068699B5AA27A610E226AD82340A24E873D76CF0E122C2"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_012.dbr",
+      "SHA256": "6FAC0F9A39C3EFF2CB6593ABEDBC399C83BB3BAF468DD14DA7C88916D9FE545A"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_013.dbr",
+      "SHA256": "A88AED9FE58631DBD3B73F0725DE358AFB999AD0BEE7374D3270A88F3B8D0C0D"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_014.dbr",
+      "SHA256": "41ABC9F2A9228334DD660320C2EF684BB31B82DB317ED088B6DFC9B4420192F1"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_015.dbr",
+      "SHA256": "225A3A6F0FD11DDF6B91385486B0F121E34F6BCB1541DB66F86355A4B15F41FC"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_016.dbr",
+      "SHA256": "EA364371AD05B5BF07429EC2BC8EC9D76C70896339B6CBCD6A9E77EA21E58D06"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_017.dbr",
+      "SHA256": "27E1CCE95033913573A3FFE220C1659BDB15DE4A1676B2DE5A0C35970CB89D0B"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_018.dbr",
+      "SHA256": "3713B05B5361EAA93B3D60C9219B01300D8FAA9C80ED6D1886635A9FE7821361"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_019.dbr",
+      "SHA256": "E362AAE16C650A94054E446A66132F5C0F3C9882F9FC369918B80FA6C4070B16"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_020.dbr",
+      "SHA256": "1BEDB80B472D46BAB40A2E62FBD5E28160E139C579960A9C80D7BDF062C32554"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_021.dbr",
+      "SHA256": "DDBD9A9B7D48895AE583D3C18F4EE5E83D32E878D94CA6E29B40ED5A1B5E97F3"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_022.dbr",
+      "SHA256": "F32AE18729989CA713943B1E38CB38947544D1306044051A8D7253E7C3031BFB"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_023.dbr",
+      "SHA256": "BEEE574C2AB0A3FC4BCFF4CADCD28FA8D81F2B85F4463415B793952C7CC1BD03"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_024.dbr",
+      "SHA256": "94E6D05EFB133626A9597F90D23CBB38A050A740F0F5ACB704D3EA1D73C0B415"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_025.dbr",
+      "SHA256": "31DAA5F1A78AD12D8EA5F9426E0299B4570D119D3925EF4B59AE0C0F52877255"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_026.dbr",
+      "SHA256": "34B54A094E5899175EC821647B0F38D5FDCCFCA8BFC4FCCA98CECBD453E29A73"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_027.dbr",
+      "SHA256": "8F95485A0D6B503921BB542BA704841D887FF1C9194B31F78DD63626C4AFFC07"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_028.dbr",
+      "SHA256": "1646A8726B9DA6A98CF157E9391E588855D5A420F4303E991D7958E893B85D91"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_029.dbr",
+      "SHA256": "FB1EFE82A195ACE759A2933234EC4A91F16284B0C24910A1B5870E304167149C"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_030.dbr",
+      "SHA256": "37F3BA2A4BDC121034028FCECF10EF751D7993F65A8AEA6205BE3024E6125B90"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_0_031.dbr",
+      "SHA256": "B7AA5945CD53B73069E2639A33D452E396AFE100926088834500C2F76B5BE299"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_1_000.dbr",
+      "SHA256": "02759D2DDFD11C7FE2FE260C811C0AC10D4D040AB1FA9359B1936B650D20C007"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_1_001.dbr",
+      "SHA256": "8E2C211CA3D053CFDC11C46CA2AC4A3898609E847887A281C25179BAD28B95E4"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/blueprints_all_levels/pool_all.dbr",
+      "SHA256": "89FCE2B0AB42CCC0106EC116B118BD6FA39B9EAB687FC737940E40F9C89B5B55"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_common.dbr",
+      "SHA256": "25445E939EE93D33D78F3795C692250233416B657ECBACD75ADAE277A3C6AE08"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_divine.dbr",
+      "SHA256": "0F80AD01DDF27F67091CE22D25FA248F4BAF1E6C955C2629C78C49D2088ECB72"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_legendary.dbr",
+      "SHA256": "61A9EF07093F839DB2E39DE48B07E8E8B2A556B0E387B817BEE44D8CF0C6A73B"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_magical.dbr",
+      "SHA256": "554D95B63DCE41FD1FF96E33766A2A8B90130920976E0882EA0BEC909F6A38D7"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_materials_low.dbr",
+      "SHA256": "1027888E45E5222A14A130541E0AB832D54ABAA8EFF1222089441EA2D7DA9554"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_materials_normal.dbr",
+      "SHA256": "DBC9A4D211D7BAB4D729C9F1905186798FA9CAC7018C836448F1E21E5991ED4C"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_materials_special.dbr",
+      "SHA256": "70C80F25CDA03F27754820BBCD4ED080413612E227FCD1FB3CD50BDECF6983A0"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_materials_valuable.dbr",
+      "SHA256": "C2E97D25528206EF84392263763D175566D0BC2CEADF58CA65EA9123B4D6477B"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_mi.dbr",
+      "SHA256": "68846E69850871DDDF451B918FFEC064A7F3183818C2918421309B19AE562B87"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_random.dbr",
+      "SHA256": "56FB41C4DF2EFD4AAA1E242CF594EA6805BAA69AC98C36D73847DC8F127ACEF2"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_uncommon.dbr",
+      "SHA256": "A0C030ECDD2104DF6694226FECB0ADFE3843D430D5E7684246CB8EDE61E8BD2C"
+    },
+    {
+      "Record": "records/__mod/spheres/loot/loot_valuable.dbr",
+      "SHA256": "F4DCA2B97A201ED9B9430CA45D9906163B817BD0CCBE077CF2538B5E07F50593"
+    }
+  ]
+}

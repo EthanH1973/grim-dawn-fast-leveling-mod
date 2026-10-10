@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/__mod/enemy_skills/thermitemine_flare1_buff_enemy.dbr,
+instantCast,1,
+

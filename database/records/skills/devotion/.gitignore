@@ -1,0 +1,11 @@
+# Local web app dependencies and generated output
+.pnpm-store/
+grim-dawn-mastery-wheel/node_modules/
+grim-dawn-mastery-wheel/.vinext/
+grim-dawn-mastery-wheel/.wrangler/
+grim-dawn-mastery-wheel/dist/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
